@@ -12,3 +12,7 @@ Hi, I'm Yan | I'm brazilian and currently studiyng Computer Science
   <a href="https://www.linkedin.com/in/yan-calvo-078592252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </p>  
+
+![Snake animation](https://github.com/yancalvo/yancalvo/blob/output/github-contribution-grid-snake.svg)
+
+<div>
