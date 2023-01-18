@@ -1,7 +1,5 @@
 Hi, I'm Yan | I'm currently studying Computer Science degree and also trying to learn web development by myself.
 
-<img src="https://art.pixilart.com/68b2410889f8233.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left">
   💌 Please contact me using the links below: ⤵️
 </p>
